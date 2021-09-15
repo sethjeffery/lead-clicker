@@ -1,4 +1,6 @@
-# mex-lead-clicker
+# Lead-clicker
+
+A simple idle-clicker built in Vue JS in order to learn the framework and have fun.
 
 ## Project setup
 ```
